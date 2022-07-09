@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBRhdQ9AqjIWdv+kgngBqNDmcKyRyZ37NKL/gElsh4qscK6yRXKHcoSjVXyi+KpyuR4v/dUz3GvDjQf/0a9nWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\Avaliacao3BimLp3 (1)\\Avaliacao3BimLp3\\ProvaLP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.data.sqlite\\6.0.6\\microsoft.data.sqlite.6.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
